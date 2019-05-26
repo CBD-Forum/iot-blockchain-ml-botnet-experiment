@@ -1,0 +1,2 @@
+botnet_classifier.h5 :: Model acc: 88.38%, loss: 0.2818 with parameters: {'batch_size': 128, 'epochs': 512, 'optimizer': 'rmsprop', 'activation': 'relu', 'dropout': 0.2}
+botnet_classifier_test_dataset.h5 :: Model acc: 94.92%, loss: 0.2037 with parameters: {'batch_size': 128, 'epochs': 512, 'optimizer': 'rmsprop', 'activation': 'relu', 'dropout': 0.2}
